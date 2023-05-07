@@ -14,5 +14,7 @@
 <a href="https://github.com/ViniciussdeOliveira">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciussdeOliveira&show_icons=true&theme=dracula&line_height=30" alt="Ankit's github stats"/>
 </a>
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciussdeOliveira&layout=compact&hide_border=true&title_color=ffffcc&text_color=ffffcc&bg_color=0d1117" />
+<a href="https://github.com/ViniciussdeOliveira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackesfonseca&theme=dracula">
+</a>
 </div>
