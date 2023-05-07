@@ -10,6 +10,11 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: viniciusoliveirasp22@gmail.com
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ViniciussdeOliveira&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+<div align="center">
+<a href="https://github.com/ViniciussdeOliveira">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciussdeOliveira&show_icons=true&theme=dracula&line_height=30" alt="Ankit's github stats"/>
+</a>
+<a href="https://github.com/ViniciussdeOliveira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciussdeOliveira&theme=dracula">
+</a>
+</div>
