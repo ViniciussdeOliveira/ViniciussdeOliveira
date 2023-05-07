@@ -17,3 +17,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciussdeOliveira&theme=dracula">
 </a> -->
 
+## Main Skills
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+          
