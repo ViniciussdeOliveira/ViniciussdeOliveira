@@ -14,7 +14,7 @@
 <a href="https://github.com/ViniciussdeOliveira">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciussdeOliveira&show_icons=true&theme=dracula&line_height=30" alt="Ankit's github stats"/>
 </a>
-<a href="https://github.com/ViniciussdeOliveira">
+<!-- <a href="https://github.com/ViniciussdeOliveira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciussdeOliveira&theme=dracula">
-</a>
+</a> -->
 </div>
