@@ -3,10 +3,10 @@
 <h2><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Vinícius de Oliveira </h2>
 </div>
 
-- I'm 21 years old
+- I'm 22 years old
 - 🏫 I'm currently studing in University of Brasilia - FGA, Brasilia, Brazil
-- 🌱 I’m currently learning React and Angular
-- 👯 I’m looking to collaborate on web and mobile application development
+- 🌱 I’m currently learning Kotlin and Mobile Development
+- 👯 I’m looking to collaborate on mobile application development
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: viniciusoliveirasp22@gmail.com
 
@@ -19,9 +19,7 @@
 
 ## Main Skills
 <div style="display: inline_block">
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -29,5 +27,7 @@
 
 ## Studying now
 <div style="display: inline_block">
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+   <img height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" />
+   <img height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" />
 </div>
+ 
