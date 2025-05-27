@@ -3,7 +3,7 @@
 <h2><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Vinícius de Oliveira </h2>
 </div>
 
-- I'm 22 years old
+- I'm 23 years old
 - 🏫 I'm currently studing in University of Brasilia - FGA, Brasilia, Brazil
 - 🌱 I’m currently learning Kotlin and Mobile Development
 - 👯 I’m looking to collaborate on mobile application development
